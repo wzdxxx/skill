@@ -19,7 +19,6 @@
         <module>class-loader</module>
         <module>jmx</module>
         <module>parse-xml</module>
-        <module>generate-code</module>
 
     </modules>
 
